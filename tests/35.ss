@@ -64,6 +64,4 @@
   (check  (c2? v5)       => #t)
   (check  (c-x v5)       => "V2")
   (check  (c1-a v5)      => "a3")
-  (check  (c2-b v5)      => "b2")
-
-  )
+  (check  (c2-b v5)      => "b2"))

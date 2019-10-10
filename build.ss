@@ -3,4 +3,4 @@
 (import :std/build-script)
 
 (defbuild-script `("35"
-		   "tests"))
+		   "tests/35"))
